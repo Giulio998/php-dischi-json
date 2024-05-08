@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background-color:rgb(6, 19, 31);
+    padding: 1rem 10%;
+}
+
+i{
+    font-size: 3rem;
+    color: green;
+}
+
+#app{
+    background-color:rgb(29, 45, 60) ;
+}
+.row{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.card{
+    background-color:rgb(17, 32, 48) ;
+    color: white;
+    justify-content: stretch;
+
+}
+
+.card_body{
+    padding: 1rem 0;
+}
